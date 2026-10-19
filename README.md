@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">NYC Motor Vehicle Collision Fatality Analysis</h3>
   <p align="center">
-    Binary logistic regression on NYC collision records to test whether Ford vehicle involvement is associated with fatal crashes - a CIS 3920 team project at Baruch College
+    Binary logistic regression on NYC collision records to test whether Ford vehicle involvement is associated with fatal crashes, a CIS 3920 team project at Baruch College
     <br />
     <a href="https://github.com/Swikc4/nyc-motor-vehicle-collision-fatality-analysis"><strong>Explore the repo »</strong></a>
   </p>
@@ -87,4 +87,4 @@ This was completed by a four person academic team. The repository documents the 
 ## Acknowledgments
 
 * CIS 3920 Data Mining for Business Analytics, Baruch College (Zicklin School of Business)
-* NYC Open Data - [Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+* NYC Open Data: [Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
