@@ -21,7 +21,6 @@
     <li><a href="#key-findings">Key Findings</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#team-context">Team Context</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -85,18 +84,7 @@ This was completed by a four person academic team. The repository documents the 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-
-Swikriti KC - [LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
-
-Project Link: [https://github.com/Swikc4/nyc-motor-vehicle-collision-fatality-analysis](https://github.com/Swikc4/nyc-motor-vehicle-collision-fatality-analysis)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Acknowledgments
 
 * CIS 3920 Data Mining for Business Analytics, Baruch College (Zicklin School of Business)
 * NYC Open Data - [Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
